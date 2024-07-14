@@ -12,12 +12,12 @@ technologiques de nos domaines, c'est-à-dire la Data, l’IA et la cybersécuri
 qui auront pour vocations de répondre aux problématiques réelles de notre environnement
 pouvant être traitées par des solutions Data IA et cybersécurités.
 #  Organigramme du departement
-**Responsable** : Thierry ZOMA
-**Responsable adjoint et chargée a la formation et  de la communication** : Aude KOUASSI
-**Chef de projet** : Emmanuel Yolou
-**Responsable Data/IA** : Parfait KOUAME
-**Responsable Securite/IA** : Eliel VANIE BI
-**Membres** : Tous les etudiants de la 7eme promotion de l'IDSI.
+- **Responsable** : Thierry ZOMA
+- **Responsable adjoint et chargée a la formation et  de la communication** : Aude KOUASSI
+- **Chef de projet** : Emmanuel Yolou
+- **Responsable Data/IA** : Parfait KOUAME
+- **Responsable Securite/IA** : Eliel VANIE BI
+- **Membres** : Tous les etudiants de la 7eme promotion de l'IDSI.
 
 # Projet:
 A l'issu d'un vote , le projet reteneu porte sur l'agriculture intelligente autoure du theme:
