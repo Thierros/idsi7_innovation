@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/0f78b8f9-5e0a-4c0c-baf0-f8d04519d478)
+
 # idsi7_innovation
 Depot github pour le projet de la 7em promotion de l'IDSI
 # Slogan:
